@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lms-php-app
 This repository is for my PHP MySQL Library Management System that i have done for a project in college for Web services & Applications
 
@@ -16,3 +17,7 @@ password : admin!!123
 Of course this credentials only work for admin registrations
 
 
+=======
+# lms_Project
+A web-based Library Management System built with PHP, MySQL, and Bootstrap that allows users to browse and borrow books, while admins can manage the library inventory efficiently. Features include secure login, book management, and user-friendly dashboards for both users and admins.
+>>>>>>> c3627821880a1c507c6e7bc555c8289337ace492
